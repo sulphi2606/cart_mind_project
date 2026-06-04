@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# chroma vector db
+chroma_db/
+
+# virtual env
+venv/
+.venv/
+
+# streamlit
+.streamlit/secrets.toml

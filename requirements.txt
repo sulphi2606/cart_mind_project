@@ -1,0 +1,16 @@
+langchain
+langchain-google-genai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langchain-core
+google-generativeai
+chromadb==0.6.3
+sentence-transformers
+pymongo
+datasets
+pandas
+python-dotenv
+streamlit
+numpy
+tqdm
